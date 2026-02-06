@@ -164,7 +164,7 @@ export const InfiniteDiscovery: React.FC = () => {
                   This sanctum exists outside of standard time. The walls are woven from crystallized starlight, and the air hums with ancient resonance.
                 </motion.p>
                 <button className="text-cyan-400 border-b border-cyan-400/30 pb-1 hover:text-white hover:border-white transition-colors font-mono text-xs uppercase tracking-widest">
-                  Read the Grimoire ->
+                  Read the Grimoire &rarr;
                 </button>
              </div>
 
