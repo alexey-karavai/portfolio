@@ -1,7 +1,8 @@
 export enum Tab {
   QUEST = 'QUEST',
   CHROMATIC = 'CHROMATIC',
-  INFINITE = 'INFINITE'
+  INFINITE = 'INFINITE',
+  LHW_3D = 'LHW_3D'
 }
 
 export interface JuiceProduct {
